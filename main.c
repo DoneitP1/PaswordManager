@@ -16,7 +16,7 @@ typedef struct {
 
 // Global variables
 static Account accounts[MAX_ACCOUNTS]; // Array to hold accounts
-static int account_count = 0;          // Keeps track of the number of stored accounts
+static int account_count = 0;       // Keeps track of the number of stored accounts
 
 // Function prototypes
 void load_accounts_from_file(void);    // Loads accounts from a file
