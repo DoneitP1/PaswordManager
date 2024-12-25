@@ -10,7 +10,7 @@
 
 // Structure to hold account details
 typedef struct {
-    char username[MAX_USERNAME];           // To store the username
+    char username[MAX_USERNAME]; // To store the username
     char encrypted_password[MAX_PASSWORD]; // To store the encrypted password
 } Account;
 
