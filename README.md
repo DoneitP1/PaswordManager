@@ -30,5 +30,5 @@ A simple and secure Password Manager implemented in C that allows users to store
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
+   git clone https://github.com/doneitp1/password-manager.git
    cd password-manager
